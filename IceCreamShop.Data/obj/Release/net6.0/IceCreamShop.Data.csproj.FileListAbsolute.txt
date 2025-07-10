@@ -1,0 +1,15 @@
+C:\Users\MASTER\Downloads\New folder\IceCreamShop.Data\obj\Release\net6.0\IceCreamShop.Data.csproj.AssemblyReference.cache
+C:\Users\MASTER\Downloads\New folder\IceCreamShop.Data\obj\Release\net6.0\IceCreamShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MASTER\Downloads\New folder\IceCreamShop.Data\obj\Release\net6.0\IceCreamShop.Data.AssemblyInfoInputs.cache
+C:\Users\MASTER\Downloads\New folder\IceCreamShop.Data\obj\Release\net6.0\IceCreamShop.Data.AssemblyInfo.cs
+C:\Users\MASTER\Downloads\New folder\IceCreamShop.Data\obj\Release\net6.0\IceCreamShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Downloads\New folder\IceCreamShop.Data\bin\Release\net6.0\IceCreamShop.Data.deps.json
+C:\Users\MASTER\Downloads\New folder\IceCreamShop.Data\bin\Release\net6.0\IceCreamShop.Data.dll
+C:\Users\MASTER\Downloads\New folder\IceCreamShop.Data\bin\Release\net6.0\IceCreamShop.Data.pdb
+C:\Users\MASTER\Downloads\New folder\IceCreamShop.Data\bin\Release\net6.0\IceCreamShop.Core.dll
+C:\Users\MASTER\Downloads\New folder\IceCreamShop.Data\bin\Release\net6.0\IceCreamShop.Core.pdb
+C:\Users\MASTER\Downloads\New folder\IceCreamShop.Data\obj\Release\net6.0\IceCreamShop.Data.csproj.CopyComplete
+C:\Users\MASTER\Downloads\New folder\IceCreamShop.Data\obj\Release\net6.0\IceCreamShop.Data.dll
+C:\Users\MASTER\Downloads\New folder\IceCreamShop.Data\obj\Release\net6.0\refint\IceCreamShop.Data.dll
+C:\Users\MASTER\Downloads\New folder\IceCreamShop.Data\obj\Release\net6.0\IceCreamShop.Data.pdb
+C:\Users\MASTER\Downloads\New folder\IceCreamShop.Data\obj\Release\net6.0\ref\IceCreamShop.Data.dll

@@ -1,0 +1,49 @@
+========================================
+   Ice Cream Shop Management System
+   نظام ادارة محل الايس كريم
+========================================
+
+EASY WAYS TO RUN THE APPLICATION:
+طرق سهلة لتشغيل البرنامج:
+
+METHOD 1 - SIMPLEST (الطريقة الاسهل):
+1. Double-click on: simple.bat
+   انقر نقرا مزدوجا على: simple.bat
+
+METHOD 2 - COMMAND LINE (سطر الاوامر):
+1. Open Command Prompt (افتح موجه الاوامر)
+2. Navigate to this folder (انتقل لهذا المجلد)
+3. Type: dotnet run --project IceCreamShop.WPF
+
+METHOD 3 - POWERSHELL:
+1. Right-click in this folder
+2. Select "Open PowerShell window here"
+3. Type: .\simple.bat
+
+LOGIN CREDENTIALS (بيانات تسجيل الدخول):
+Username (اسم المستخدم): admin
+Password (كلمة المرور): admin123
+
+IMPORTANT NOTES (ملاحظات مهمة):
+- Warnings during startup are normal (التحذيرات عند البدء طبيعية)
+- The application will work despite warnings (البرنامج سيعمل رغم التحذيرات)
+- Make sure .NET 6.0 is installed (تأكد من تثبيت .NET 6.0)
+
+FEATURES (المميزات):
+- Point of Sale (نقطة البيع)
+- Product Management (ادارة المنتجات)
+- Inventory Management (ادارة المخزون)
+- Customer Management (ادارة العملاء)
+- Reports (التقارير)
+- User Management (ادارة المستخدمين)
+
+TROUBLESHOOTING (حل المشاكل):
+If simple.bat doesn't work:
+اذا لم يعمل simple.bat:
+
+1. Try: run-app.cmd
+2. Or open Command Prompt and type:
+   او افتح موجه الاوامر واكتب:
+   dotnet run --project IceCreamShop.WPF
+
+========================================

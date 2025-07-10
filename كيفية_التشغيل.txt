@@ -1,0 +1,52 @@
+نظام ادارة محل الايس كريم
+Ice Cream Shop Management System
+============================
+
+البرنامج جاهز للتشغيل!
+The application is ready to run!
+
+طرق التشغيل / How to Run:
+
+1. الطريقة الاسهل / Easiest way:
+   انقر نقرا مزدوجا على ملف: launch.bat
+   Double-click on file: launch.bat
+
+2. الطريقة البديلة / Alternative way:
+   انقر نقرا مزدوجا على ملف: start.bat
+   Double-click on file: start.bat
+
+3. الطريقة التفصيلية / Detailed way:
+   انقر نقرا مزدوجا على ملف: run.bat
+   Double-click on file: run.bat
+
+4. الطريقة اليدوية / Manual way:
+   افتح Command Prompt واكتب:
+   Open Command Prompt and type:
+   dotnet run --project IceCreamShop.WPF
+
+بيانات تسجيل الدخول / Login Credentials:
+   اسم المستخدم / Username: admin
+   كلمة المرور / Password: admin123
+
+ملاحظات مهمة / Important Notes:
+• قد تظهر تحذيرات عند التشغيل - يمكن تجاهلها
+  Some warnings may appear during startup - you can ignore them
+• البرنامج يعمل بشكل طبيعي رغم التحذيرات
+  The program works normally despite the warnings
+• التحذيرات تخص توافق بعض المكتبات مع .NET 6
+  The warnings are about library compatibility with .NET 6
+
+الوظائف المتاحة / Available Features:
+- نقطة البيع / Point of Sale
+- ادارة المنتجات / Product Management
+- ادارة المخزون / Inventory Management
+- ادارة العملاء / Customer Management
+- التقارير / Reports
+- ادارة المستخدمين / User Management
+
+للمساعدة / For Help:
+راجع ملف README.md للتفاصيل الكاملة
+Check README.md file for complete details
+
+استمتع باستخدام البرنامج!
+Enjoy using the application!
